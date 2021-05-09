@@ -1,0 +1,117 @@
+* {
+    margin:0;
+    padding:0;
+}
+body {
+    font-family: Arial;
+}
+.wrapper {
+    margin: 0px auto;
+    width: 100%;
+}
+.main {
+    width: 100%;
+    float: left;
+    height: 100vh;
+    background-image: url("../images/nature1.jpg");
+    background-size: 100%;
+    overflow: hidden;
+}
+/* h1 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 5px;
+} */
+.nav {
+    width: 100%;
+    float: left;
+    background-color: rgba(0,0,0,.5);
+    display: inline;
+}
+ul {
+    list-style-type: none;
+    
+}
+li {
+    float: left;
+    border-right: 1px solid #bbb;
+}
+li a {
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 14px 14px;
+    text-decoration: none;
+    font-size: 15px;
+    transition: all .5s;
+}
+li a:visited {
+    color:white;
+}
+li a:active {
+    color: yellow;
+}
+li a:hover{
+    color:red;
+    background-color: #a4a4a4;
+}
+.active {
+    background-color: #4caf50;
+}   
+.search {
+    float: right;
+}
+.search input{
+    width: 300px;
+    height: 30px;
+    margin: 20px 20px 0px 0px;
+    border-radius: 15px;
+    border: 1px solid #fff;
+    background-color: rgba(255,255,255,.2);
+    opacity: .5;
+    padding-left: 2px;
+    color: #fff;
+    font-size: 18px;
+}
+content {
+    width: 100%;
+    float: left  ;
+}
+article {
+    width: 13.5%;
+    margin-left:10%;
+    background-color: rgba(255,255,0,.25);
+    color:#000;
+    display:block;
+    float:left;
+    text-align: center;
+    padding:50px 50px 0px 50px;
+    margin-top: 300px;
+    height: 600px;
+    font-size: 18px;
+    border-radius: 40px 40px 0px 0px;
+    transition: all .5s;
+}
+article p, article h1 {
+    margin-top: 20px;
+}
+article:hover {
+    background-color: #fff;
+    color:black;
+    margin-top: 200px;
+}
+i {
+    margin: 15px;
+    font-size: 20px;
+
+}
+.search i.fa-search{
+    color: #fff;
+    font-size: 18px;
+}
+article i.fas{
+    font-size: 100px;
+}
+article i.fa-pagelines{
+    font-size: 100px;
+}
