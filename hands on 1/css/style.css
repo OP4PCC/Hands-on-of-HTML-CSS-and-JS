@@ -1,0 +1,87 @@
+/* apply to heading of the HTML document */
+h1 {
+    color:rgb(129, 202, 12);
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Cinzel', serif;
+    font-weight: 900;
+    padding: 20px;
+}
+h2 {
+    color: blueviolet;
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Rye', cursive;
+    font-size: 25px;
+    font-weight: 900;
+}
+p {
+    font-family: 'Charm', cursive;
+    font-size: 25px;
+    font-weight: 500;
+    overflow: scroll;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+/* float left will make nav horizontal*/
+li {
+    float: left;
+}
+
+/* improve nav menu */
+li a {
+    display:block;
+    color: white;
+    /* text-align: center; */
+    padding: 14px 14px;
+    text-decoration: none;
+}
+li a:visited {
+    color:white;
+}
+li a:active {
+    color: yellow;
+}
+li a:hover{
+    color:red;
+}
+.active {
+    background-color: #4caf50;
+}
+.About {
+    border: 1px solid #333;
+    background-image: url("../images/nature1.jpg");
+    background-size: 100% ;
+    background-repeat: no-repeat ;
+}
+div.gallery {
+    margin:15px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 250px;
+}
+div.gallery:hover {
+    border: 1px solid #777;
+}
+div.gallery imag {
+    /* width: 50%; */
+    /* height: auto; */
+    padding: 55px;
+    /* display: inline-block; width: 50%; max-width: 600px; */
+}
+div.desc {
+    padding: 25px;
+    text-align: center;
+}
+i {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  body {
+      background-image: url('/images/nature1.jpg');
+  }
