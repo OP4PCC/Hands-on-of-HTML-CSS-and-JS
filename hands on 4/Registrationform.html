@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <head>
+        <title>Validate registration form</title>
+        <link rel="stylesheet" type="text/css" href="css/all.css">
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <script>
+
+        </script>
+    </head>
+    <body>
+        <div class="animation">
+            <h1>Fill the form for registration</h1>
+        </div>
+        <!--<hr> horizontal rule for thematic break-->
+        <hr>
+        <hr>
+        <h2>Student Form</h2>
+        <form method="" action="" name="student_form" onsubmit=" return validate()">
+        <table>
+            <!--<tr> table row  Now I will make sure that the name input by user must be string-->
+            <tr>
+                 <td><label>Name: </label></td>
+                 <td>
+                    <input type="text" name="name" id="name" onblur="validateString(this.id)">
+                 </td>
+            </tr>
+            <tr>
+                <td><label>Mobile: </label></td>
+                <td>
+                    <input type="text" name="mobile" id="number", onblur="validateNumber(this.id)">
+                </td>
+            </tr>
+            <tr>
+                <td><label>Email: </label></td>
+                <td>
+                    <input type="text" name="email" id="email" onblur="validateEmail(this.id)">
+                </td>
+            </tr>
+            <tr>
+                <td><label>Gender: </label></td>
+                <td>
+                    <input type="radio" name="Gender" value="Male"><b> Male</b>
+                    <input type="radio" name="Gender" value="Female"><b> Female</b>
+                </td>
+            </tr>
+            <tr>
+                <td><label>Select Course: </label></td>
+                <td>
+                    <select name="course">
+                        <option value="select course">select course</option>
+                        <option value="html">HTML</option>
+                        <option value="css">CSS</option>
+                        <option value="javascript">JavaScript</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td><label>Select Batch:</label></td>
+                <td>
+                    <input type="checkbox" name="batch" value="Morning"> Morning
+                    <input type="checkbox" name="batch" value="Afternoon"> Afternoon
+                    <input type="checkbox" name="batch" value="Evening"> Evening
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="position: relative; left:-30px;">
+                    <input type="submit" name="submit" value="Submit" target="_blank">
+                    <input type="reset" name="reset" value="Reset">
+                </td>
+            </tr>
+        </table>
+        </form>
+        <script src="js/first.js"></script>
+    </body>
+</html>
