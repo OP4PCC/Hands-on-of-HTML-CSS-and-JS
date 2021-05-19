@@ -1,0 +1,136 @@
+{
+"status": "ok",
+"totalResults": 10,
+"articles": [
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Covid: EU to ease travel restrictions for non-EU visitors",
+"description": "But most of EU is on the UK's \"amber list\" so travellers will have to quarantine and people have been urged not to go on holiday.",
+"url": "http://www.bbc.co.uk/news/live/uk-57168021",
+"urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.1.0/bbc_news_logo.png",
+"publishedAt": "2021-05-19T10:52:32.2899729Z",
+"content": "Restaurants have started opening their doors across AustriaImage caption: Restaurants have started opening their doors across Austria\r\nIts a big day for reopening in Austria, where\r\ncatering, hotels,… [+1741 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Malawi burns thousands of Covid-19 vaccine doses",
+"description": "Health officials hope the event will increase public confidence in getting the vaccination.",
+"url": "http://www.bbc.co.uk/news/world-africa-57168841",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14236/production/_118568428_gettyimages-1230667610.jpg",
+"publishedAt": "2021-05-19T10:37:22.7678995Z",
+"content": "Rhoda Odhiambo BBC News, Lilongwe\r\nimage copyrightGetty Images\r\nimage captionHealth officials hope the event will increase public confidence in the vaccine\r\nHealth authorities in Malawi have incinera… [+2953 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Demi Lovato is non-binary and is changing pronouns to they/them, singer announces",
+"description": "\"Today is a day I'm so happy to share more of my life with you all,\" the US singer tells fans.",
+"url": "http://www.bbc.co.uk/news/newsbeat-57169541",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18502/production/_118568599_demisinging976.jpg",
+"publishedAt": "2021-05-19T09:37:22.5788647Z",
+"content": "image copyrightGetty Images\r\nDemi Lovato is non-binary and is changing their pronouns from she/her to they/them, the singer has told fans.\r\nNon-binary people don't identify as male or female, and ten… [+3076 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Israel targets Gaza militants on 10th day of strikes",
+"description": "Rocket fire and air strikes continued overnight, as efforts to broker a ceasefire appeared to stall.",
+"url": "http://www.bbc.co.uk/news/live/world-middle-east-57168671",
+"urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.1.0/bbc_news_logo.png",
+"publishedAt": "2021-05-19T07:52:27.5624634Z",
+"content": "Fifty rockets have been launched\r\nby militants from Gaza over the past day, according to Israels military. Forty of these were\r\nfired into Israel, and 10 landed within the Gaza Strip.\r\nIsrael says th… [+767 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Somerton man: Body exhumed in bid to solve Australian mystery",
+"description": "Investigators hope DNA advances will uncover clues as to the identity of the body found in the 1940s.",
+"url": "http://www.bbc.co.uk/news/world-australia-57166662",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10DCA/production/_118566096_exhumesite.jpg",
+"publishedAt": "2021-05-19T05:52:22.8288793Z",
+"content": "image copyrightSouth Australia Police\r\nimage captionPolice begin work to exhume the body in the early hours of Wednesday morning\r\nThe body of a man found on a South Australian beach more than 70 year… [+3125 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "New York prosecutor says Trump inquiry now 'criminal'",
+"description": "A spokesman for the state's top prosecutor says the inquiry is \"no longer purely civil\".",
+"url": "http://www.bbc.co.uk/news/world-us-canada-57166735",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/209F/production/_115115380_gettyimages-1199979901-594x594.jpg",
+"publishedAt": "2021-05-19T03:07:17.100337Z",
+"content": "image copyrightGetty Images\r\nThe New York attorney general's office says it is investigating the Trump Organization \"in a criminal capacity\".\r\nA spokesman for the state's top prosecutor, Letitia Jame… [+1732 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Israel-Gaza: Young Americans on the conflict - and online activism",
+"description": "Online activism is shifting attitudes about the conflict. What do these young Americans think?",
+"url": "http://www.bbc.co.uk/news/world-us-canada-57161927",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4DEA/production/_118564991_aa_ig_compo.jpg",
+"publishedAt": "2021-05-19T01:22:23.7479158Z",
+"content": "By Sam CabralBBC News, Washington\r\nimage captionLeen, Leila and Eliana share their views with the BBC\r\nAs violence escalates between Israelis and Palestinians, scenes of destruction and calls to acti… [+13000 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "'You have to be brave to send your child to school'",
+"description": "Mothers speak of their grief and fear after bomb blasts near a Kabul school killed at least 85 people, many of them schoolgirls.",
+"url": "http://www.bbc.co.uk/news/world-asia-57163173",
+"urlToImage": "https://ichef.bbci.co.uk/images/ic/400xn/p09hymvx.jpg",
+"publishedAt": "2021-05-19T00:37:20.9031913Z",
+"content": "Students were streaming out of the Sayed ul-Shuhada secondary school in Kabul on Saturday 8 May, when explosions shook the neighbourhood.\r\nAt least 85 people were killed in the bomb attack - the majo… [+496 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Biden accelerates away when asked about Israel",
+"description": "The president floors it when questioned by reporters about the Middle East conflict.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-57166733",
+"urlToImage": "https://ichef.bbci.co.uk/images/ic/400xn/p09hz26j.jpg",
+"publishedAt": "2021-05-19T00:22:20.5874548Z",
+"content": "While test driving an electric truck in Michigan, President Biden put the pedal to the metal when questioned about the conflict in the Middle East.\r\nAs he stepped off Air Force One earlier he came fa… [+114 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Charles Grodin: Beethoven and The Heartbreak Kid actor dies aged 86",
+"description": "Grodin, who was best known for roles in Midnight Run and Beethoven, died of cancer, his son says.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-57161088",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/173B4/production/_118565159_charlesgrobin.png",
+"publishedAt": "2021-05-18T21:52:23.7440357Z",
+"content": "image copyrightGetty Images\r\nimage captionCharles Grodin won several awards for his parts in TV and film productions\r\nCharles Grodin, an American actor whose comic roles in films such as Midnight Run… [+2642 chars]"
+}
+]
+}
