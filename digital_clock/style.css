@@ -1,0 +1,25 @@
+html {
+    background:url("/1.jpg");
+    background-size: cover;
+    font-family: "helvetica neue";
+    text-align: center;
+    font-size: 10px;
+}
+body {
+    margin:0;
+    padding: 0;
+    display: flex;
+    box-sizing: border-box;
+    font: 'Orbitron', sans-serif;
+}
+
+#clock {
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(2, 17, 17, 0.837);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
